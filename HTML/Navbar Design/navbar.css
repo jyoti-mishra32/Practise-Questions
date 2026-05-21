@@ -1,0 +1,16 @@
+ul{
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+a:hover{
+  color: blue;
+}
