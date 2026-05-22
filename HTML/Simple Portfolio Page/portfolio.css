@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e9e5ef;
+    gap: 10px;
+}
+
+h2{
+  color: purple;
+}
+
+p{
+  color: black;
+}
+
+h3{
+  color: blueviolet;
+  font-size: 25px;
+}
+
+button{
+  padding: 8px 15px;
+  background-color: brown;
+  color: aliceblue;
+  border-radius: 5px;
+}
+
+button:hover{
+  background-color: black;
+}
